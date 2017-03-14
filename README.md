@@ -4,7 +4,7 @@ An automatical platform based on BOINC for volunteer computing and grid computin
 
 
 ## What are these?
-用于构建BOINC自动化平台的必要文件，其中，“boinc-master”中的文件替换原服务器中相应位置的文件；“my-bins”包括我写的自动化脚本和相关程序，你可以放到任意位置，然后做出适当部署。
+用于构建BOINC自动化平台的必要文件，其中，“boinc-master”中的文件替换原服务器中相应位置的文件，然后make；“my-bins”包括我写的自动化脚本和相关程序，你可以放到任意位置，然后做出适当部署。
 
 
 ## What are their functions?
