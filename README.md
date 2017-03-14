@@ -8,12 +8,12 @@ An automatical platform based on BOINC for volunteer computing and grid computin
 
 
 ## What are their functions?
-主要功能：＜/br＞
-    （1）自动创建项目（projects）＜/br＞
-    （2）自动为项目添加应用和相关文件，根据规定的格式（applications）＜/br＞
-    （3）自动生成满足服务器规则的相关信息文件和配置文件（config）＜/br＞
-    （4）自动回收客户端计算的结果并按照规则放在download目录下（assimilate）＜/br＞
-    （5）自动使boinc客户端在休眠条件下保持可接受服务器新任务的状态（部分脚本和程序还没上传）＜/br＞
+主要功能：<br />
+    （1）自动创建项目（projects）<br />
+    （2）自动为项目添加应用和相关文件，根据规定的格式（applications）<br />
+    （3）自动生成满足服务器规则的相关信息文件和配置文件（config）<br />
+    （4）自动回收客户端计算的结果并按照规则放在download目录下（assimilate）<br />
+    （5）自动使boinc客户端在休眠条件下保持可接受服务器新任务的状态（部分脚本和程序还没上传）<br />
 
 
 ## Why no "install.sh"?
